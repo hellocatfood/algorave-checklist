@@ -54,6 +54,9 @@ Where will the projection be? For example, some Algoraves have the visuals proje
 Being able to view code and visuals can be quite important at an Algorave. Dense lighting and smoke machines can negatively affect this and so should be used sparringly. Commnicate with performers about what options are available. When done well lighting and smoke can build a great atmosphere. When done badly it will obscure the visuals too much
 
 
+## Credits
+The Algorave Visalists checklist was created as an output from the Visualists Meetup at ICLC in 2019. The meetup was led by Antonio Roberts and Olivia Jack.
+
 == Other questions == 
 
 

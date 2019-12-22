@@ -11,7 +11,8 @@ We recognise that many of the issues and recommendations raised in this document
 ## Visuals
 
 ### Layout of space
-As an organiser be sure to know your venue. This includes simple things like entrances, exits and car parks but also important things like equipment storage, backstage areas. Communicate this with performers before the event. As a performer if you have any access requirements that weren't addressed by the organiser make them known before the event.
+**Organisers:** Be sure to know your venue. This includes simple things like entrances, exits and car parks but also important things like equipment storage, backstage areas. Communicate this with performers before the event.
+**Performers**: If you have any access requirements that weren't addressed by the organiser make them known before the event.
 
 ### Is visualist visible
 This is a question for both the performer and organiser. Algoraves are leading the way in making sure the visualist takes centre stage alongside the musician. As a performer do you want to be on stage?
@@ -20,19 +21,20 @@ This is a question for both the performer and organiser. Algoraves are leading t
 If the organiser or performer decides not to be on stage decide on where they will be placed well before the event begins
   
 ### Does table have seating or is standing
-Standing height tables are a rarity, but should always be considered especially for those with back problems. If no standing height tables are available have alternative solutions ready (e.g. normal table with stacked fligh cases)
+**Organisers:** Standing height tables are a rarity, but should always be considered especially for those with back problems. If no standing height tables are available have alternative solutions ready (e.g. normal table with stacked fligh cases)
   
 ### Is code visible
 
 ## Tech
 ### Type of cables needed
-As an organiser you should ensure that all equipment has necessary cables for connecting to the required devices. This may require communicating with performers to let them know what is available but also asking about their equpiment. Most laptops have HDMI output and projectors HDMI input but always ask and source other cables if needed. Performers, get to know your equpiment and let the organiser know long before the event what you have, especially if it requires an uncommon cable
+**Organisers:** You should ensure that all equipment has necessary cables for connecting to the required devices. This may require communicating with performers to let them know what is available but also asking about their equpiment. Most laptops have HDMI output and projectors HDMI input but always ask and source other cables if needed.
+**Performers:** Get to know your equpiment and let the organiser know long before the event what you have, especially if it requires an uncommon cable
 
 ### Length of cables
-Organisers, once you know the layout of the venue be sure that cables can reach from the projector to the performer. Be aware of the limitations and risks involved in using very long cables and source appropriate cables if needed. Ensure that cables aren't obstructing access or creating a trip hazard
+**Organisers:** Once you know the layout of the venue be sure that cables can reach from the projector to the performer. Be aware of the limitations and risks involved in using very long cables and source appropriate cables if needed. Ensure that cables aren't obstructing access or creating a trip hazard
 
 ### Number of cables available
-Performers, always state amount of projectors you will need. Organisers: For the majority of Algoraves there will usually be a minimum of two projections: one for the musician and one for the visualist. Make sure there are enough cables for both
+**Performers:** always state amount of projectors you will need. Organisers: For the majority of Algoraves there will usually be a minimum of two projections: one for the musician and one for the visualist. Make sure there are enough cables for both
  
 ### Adaptors
 Both organisers and performers should ensure that they have adaptors to connect their devices to a projector. Many modern laptops are adopting USB-C output in place of USB-A, VGA, HDMI, or even Thunderbolt ports. This means that to connect to a projector an adaptor (USB-C to HDMI/VGA) is needed. These adaptors can be very expensive and are easily lost and accidentally stolen. Have one with you and keep it with you. Organisers, if you cannot supply adaptors be sure to communicate with performers that they should bring one with them
@@ -48,10 +50,10 @@ Many modern projectors can support resolutions including SD (720 x 480), HD (192
 How big will the actual projection be? Will it be big enough for people to read the code on screen?
 
 ### Projection location
-Where will the projection be? For example, some Algoraves have the visuals projected so that it partially covers the performers. Others have two projections either side of the performers. Some even have 360 projections! Decide on your preference and communicate this with the performers as it may impact where they choose to be in the venue
+**Organisers:** Where will the projection be? For example, some Algoraves have the visuals projected so that it partially covers the performers. Others have two projections either side of the performers. Some even have 360 projections! Decide on your preference and communicate this with the performers as it may impact where they choose to be in the venue
 
 ### Lighting / Smoke Machine
-Being able to view code and visuals can be quite important at an Algorave. Dense lighting and smoke machines can negatively affect this and so should be used sparringly. Commnicate with performers about what options are available. When done well lighting and smoke can build a great atmosphere. When done badly it will obscure the visuals too much
+**Organisers:** Being able to view code and visuals can be quite important at an Algorave. Dense lighting and smoke machines can negatively affect this and so should be used sparringly. Commnicate with performers about what options are available. When done well lighting and smoke can build a great atmosphere. When done badly it will obscure the visuals too much
 
 
 ## Credits

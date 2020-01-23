@@ -1,6 +1,3 @@
-Saturday 25 Jan 2020
-====================
-
 # Algorave Planning Checklist
 
 So you want to put on an Algorave? The evolving guidelines offer are a great place to start and offer general guidance on how to make sure your event is a diverse exciting experience for all involved. https://github.com/Algorave/guidelines/blob/master/README_en.md

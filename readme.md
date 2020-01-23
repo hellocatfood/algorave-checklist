@@ -12,6 +12,7 @@ We recognise that many of the issues and recommendations raised in this document
 
 ### Layout of space
 **Organisers:** Be sure to know your venue. This includes simple things like entrances, exits and car parks but also important things like equipment storage, backstage areas. Communicate this with performers before the event.
+
 **Performers**: If you have any access requirements that weren't addressed by the organiser make them known before the event.
 
 ### Is visualist visible
